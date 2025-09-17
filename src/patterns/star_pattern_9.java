@@ -17,6 +17,8 @@ public class star_pattern_9 {
                 }
             }
             System.out.println();
+
+            System.out.println();
         }
     }
 }
