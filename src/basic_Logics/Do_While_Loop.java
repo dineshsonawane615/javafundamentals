@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class Do_While_Loop {
     public static void main(String[] args) {

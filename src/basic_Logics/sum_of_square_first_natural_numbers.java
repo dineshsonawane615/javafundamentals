@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class sum_of_square_first_natural_numbers {
 

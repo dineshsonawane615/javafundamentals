@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class nth_term_of_AP {
     public static int nthTermOfAP(int a1, int a2, int n){

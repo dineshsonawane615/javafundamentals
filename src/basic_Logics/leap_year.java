@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class leap_year {
     private static String notALeapYear;

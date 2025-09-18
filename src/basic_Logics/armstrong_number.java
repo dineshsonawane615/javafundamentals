@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class armstrong_number {
     public static void main(String[] args) {

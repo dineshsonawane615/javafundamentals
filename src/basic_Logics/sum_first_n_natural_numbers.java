@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class sum_first_n_natural_numbers {
 

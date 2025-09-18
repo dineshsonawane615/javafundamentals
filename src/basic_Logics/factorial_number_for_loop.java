@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class factorial_number_for_loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class reverse_number {
     public static void main(String[] args) {

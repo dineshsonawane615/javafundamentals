@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 class leap_Year {
     public static void main(String[] args) {

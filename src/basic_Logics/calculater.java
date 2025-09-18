@@ -1,4 +1,4 @@
-package basic_1;
+package basic_Logics;
 
 public class calculater {
     int add (int a, int b){
