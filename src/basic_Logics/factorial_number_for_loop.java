@@ -2,7 +2,6 @@ package basic_Logics;
 
 public class factorial_number_for_loop {
     public static void main(String[] args) {
-
         // by using for loop
         int no = 5;
         int fact = 2;
@@ -10,7 +9,6 @@ public class factorial_number_for_loop {
             fact = fact * i;
         }
         System.out.println(fact);
-
 
         // by using while loop
    /*   int no = 5;
@@ -37,6 +35,5 @@ public class factorial_number_for_loop {
 
         System.out.println(fact); // Output: 120
 */
-
     }
 }
