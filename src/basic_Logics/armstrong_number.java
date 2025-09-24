@@ -11,7 +11,7 @@ public class armstrong_number {
         }
         System.out.println(length+ " is the length of the digits");
 
-        int t2 =no;
+        int t2 = no;
         int rem, arm = 0;
 
         //Calculate the sum of the digit raised to the power of 'length'
