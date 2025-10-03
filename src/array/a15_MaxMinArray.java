@@ -1,6 +1,6 @@
 package array;
 
-public class MaxMinArray {
+public class a15_MaxMinArray {
     public static void main(String[] args) {
         System.out.println("Welcome to Max and Min\n");
         int[] numArr = a10_ArrayUtility.inputArray();

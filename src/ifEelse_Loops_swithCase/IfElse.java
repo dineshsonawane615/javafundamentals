@@ -1,4 +1,4 @@
-package basics;
+package ifEelse_Loops_swithCase;
 
 public class IfElse {
     public static void main(String[] args) {

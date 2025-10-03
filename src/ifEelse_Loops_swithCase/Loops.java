@@ -1,4 +1,4 @@
-package basics;
+package ifEelse_Loops_swithCase;
 
 import java.util.Scanner;
 
